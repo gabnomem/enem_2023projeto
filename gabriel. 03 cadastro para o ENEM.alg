@@ -1,14 +1,14 @@
 algoritmo "gabriel 03"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 28/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 NOME,NOMEMAE,NOMEPAI,DATANASCIMENTO,MODAL:CARACTERE
 SENHA,CONFIRMESENHA,ESCOLHAESCOLA:INTEIRO
 RENDAFAMILIA,QUANTPESSOA,CAR,MOTO,ISENCAO:REAL
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 ESCREVAL( "SEJA BEM VINDO A INSENCAO DO ENEM 2023 " )
 // INICIO DO CADASTRO BASICO
 ESCREVAL(" NOME CONPLETO")
